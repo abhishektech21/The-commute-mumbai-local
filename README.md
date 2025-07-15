@@ -33,5 +33,4 @@ We analyzed how the city manages such high transport demand and explored algorit
 ### Train Network Map
 <img src="https://github.com/user-attachments/assets/6f712f74-6d27-4af2-927a-f40fbdd92b9a" width="200"/>
 
-## 📂 Repository Structure
 
